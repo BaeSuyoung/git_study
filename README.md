@@ -1,2 +1,2 @@
-# git_study
-git및 github공부
+# hello_world
+git및 github 공부용
